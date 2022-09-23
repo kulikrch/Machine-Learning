@@ -12,8 +12,14 @@
 
 С увелечением числа наблюдений растёт ошибка на тестовой выборке. Сплайны вытягиваются
 Для 500 наблюдений:
+
 ![image](https://user-images.githubusercontent.com/93386717/192026530-2d130665-f6ee-40ee-b80d-4d1538e926f5.png)
+
 Для 550 наблюдений:
+
 ![image](https://user-images.githubusercontent.com/93386717/192026588-d1684525-6c51-4b3a-9021-2895508f647c.png)
+
 Для 600 наблюдений:
+
 ![image](https://user-images.githubusercontent.com/93386717/192026642-379c7581-3928-4564-a40b-510a17f0b6dd.png)
+
