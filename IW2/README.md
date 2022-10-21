@@ -24,9 +24,9 @@
 ![image](https://user-images.githubusercontent.com/93386717/197146789-477bb4a3-b89b-447e-ab98-a50811a9520e.png)
 # Прогноз на отложенных наблюдениях:
 Для каждой модели была рассчитана ошибка MSEtest:
+
 ![image](https://user-images.githubusercontent.com/93386717/197147413-d3a1e127-d48e-4d1a-a7fc-0cffd9f8acba.png)
 ![image](https://user-images.githubusercontent.com/93386717/197147903-4e407751-4806-44f7-85cf-6c42d11d91e4.png)
 ![image](https://user-images.githubusercontent.com/93386717/197148163-029a981c-73e7-4739-8df0-dc23ac883c51.png)
-![image](https://user-images.githubusercontent.com/93386717/197148744-2bbaf61b-5b7d-4fc8-a2e5-dcfc269087be.png)
 # Вывод:
 Самой точной оказалась 1 модель.
