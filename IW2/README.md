@@ -5,10 +5,12 @@
 ![image](https://user-images.githubusercontent.com/93386717/197143364-51ebcf8e-e283-4381-bf75-662902b4a977.png)
 # Оценка взаимосвязи:
 ![image](https://user-images.githubusercontent.com/93386717/197144003-dccf885b-dc23-4f14-ae85-1e676cc38781.png)
+
 Как и предполагалось раннее существует свзяь между Price и CompPrice;
 Так же видна умеренная связь Price и зависимой переменной Sales;
 # Проверка Y на нормальность:  
 ![image](https://user-images.githubusercontent.com/93386717/197143569-e805ac1f-131b-4727-a167-991856e872c6.png)
+
 Логарифмирование не требуется.
 # Список возможных спецификаций моделей:
 ![image](https://user-images.githubusercontent.com/93386717/197144926-8e5e4bc2-5827-40e7-8efb-15019a283082.png)
@@ -20,6 +22,7 @@
 ![image](https://user-images.githubusercontent.com/93386717/197146106-c7bd2422-9546-4f66-a8c2-101579798f38.png)
 # Оценка точности моделей:
 ![image](https://user-images.githubusercontent.com/93386717/197146287-311d5a10-0504-4350-9ef0-8cbbcb943e69.png)
+
 Самая точная первая, вторая и третья чуть хуже.
 ![image](https://user-images.githubusercontent.com/93386717/197146789-477bb4a3-b89b-447e-ab98-a50811a9520e.png)
 # Прогноз на отложенных наблюдениях:
