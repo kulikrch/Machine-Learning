@@ -28,4 +28,5 @@
 ![image](https://user-images.githubusercontent.com/93386717/197147903-4e407751-4806-44f7-85cf-6c42d11d91e4.png)
 ![image](https://user-images.githubusercontent.com/93386717/197148163-029a981c-73e7-4739-8df0-dc23ac883c51.png)
 ![image](https://user-images.githubusercontent.com/93386717/197148744-2bbaf61b-5b7d-4fc8-a2e5-dcfc269087be.png)
-# Самой точной оказалась 1 модель.
+# Вывод:
+Самой точной оказалась 1 модель.
