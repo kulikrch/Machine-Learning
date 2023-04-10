@@ -8,3 +8,4 @@
 3. [Методы снижения размерности. Регуляризация логистической регрессии](https://github.com/kulikrch/Machine-Learning/tree/main/IW3)
 4. [Методы, основанные на деревьях решений. Регрессионные деревья. Деревья классификации. Бэггинг.](https://github.com/kulikrch/Machine-Learning/tree/main/IW4)
 5. [Машины опорных векторов](https://github.com/kulikrch/Machine-Learning/tree/main/IW5)
+6. [Кластеризация](https://github.com/kulikrch/Machine-Learning/tree/main/semestr2/IW1)
