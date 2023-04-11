@@ -10,3 +10,4 @@
 5. [Машины опорных векторов](https://github.com/kulikrch/Machine-Learning/tree/main/IW5)  
 **Semestr 2**  
 6. [Кластеризация](https://github.com/kulikrch/Machine-Learning/tree/main/semestr2/IW1)
+7. [Исследование факторов и организация работы с таблицами данных](https://github.com/kulikrch/Machine-Learning/tree/main/semestr2/IW2)
